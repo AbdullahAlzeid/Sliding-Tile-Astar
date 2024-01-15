@@ -7,7 +7,7 @@ This repository contains a Python implementation of the A* (A-star) algorithm to
 
 ## Features
 - **Dynamic Puzzle Size**: Supports puzzles of sizes ranging from 3x3 to 6x6.
-- **A* Algorithm**: Utilizes the A* search algorithm for finding the most efficient solution path.
+- **A-Star Algorithm**: Utilizes the A* search algorithm for finding the most efficient solution path.
 - **Heuristic Functions**: Includes Manhattan Distance and Misplaced Tiles heuristics for optimized searching.
 - **Performance Analysis**: Generates reports on the performance of the algorithm, including solution depth and maximum states stored.
 
@@ -19,7 +19,6 @@ This repository contains a Python implementation of the A* (A-star) algorithm to
 
 ## Key Components
 - **Driver.py**: The main script to run the puzzle solver. ([Driver.py](https://github.com/AbdullahAlzeid/Sliding-Tile-Astar/blob/main/Driver.py))
-- **Heuristic Functions**: Implements Manhattan Distance and Misplaced Tiles heuristics for the A* algorithm.
 
 ## Heuristic Functions
 - **Manhattan Distance**: Calculates the sum of the distances of each tile from its goal position.
