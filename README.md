@@ -1,5 +1,7 @@
 # Sliding Tile Puzzle Solver Using A* Algorithm
 
+![Alt text](/images/a.png)
+
 ## Overview
 This repository contains a Python implementation of the A* (A-star) algorithm to solve the Sliding Tile Puzzle, an NxN grid-based puzzle. The implementation includes various heuristic functions like Manhattan Distance and Misplaced Tiles to efficiently find the solution.
 
